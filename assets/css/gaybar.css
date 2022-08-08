@@ -1,16 +1,39 @@
 .gaybar__container {
-    position: sticky;
-    z-index: 101;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    width: 100%;
-    border-bottom: 2px solid black;
-    padding-bottom: 1rem;
-    overflow: scroll;
-    overflow-y: hidden;
+  display: block;
+  margin: 0 auto;
+  padding-bottom: 0.5rem;
+  text-align: center;
+  border-bottom: 2px inset black ;
 }
-.gaybar__container > div {
+
+.gaybar__container ul {
+  padding:0;
+  margin: 0;
+}
+
+.gaybar__container ul li {
+  display: inline-block;
+  line-height: 48px
+}
+
+.gaybar__container ul li+li:before {
+  display: inline-block;
+  width: 1px;
+  height: 14px;
+  margin: 0 10px;
+  background-color: #ebebeb;
+  vertical-align: top;
+  content: '';
+  vertical-align: middle
+}
+
+.gaybar__container ul li a {
+  font-size: 1rem;
+  color: black;
+}
+
+
+/* .gaybar__container > div {
     width: max-content;
     display: flex;
     justify-content: space-around;
@@ -22,4 +45,4 @@
     font-size: 1rem;
     color: black;
     margin: 0 2rem;
-}
+} */
