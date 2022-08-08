@@ -46,3 +46,20 @@
     color: black;
     margin: 0 2rem;
 } */
+
+.gayheader {
+  display: flex;
+  width: 100%;
+}
+
+.gayheader span {
+  font-size: 2rem;
+  font-weight: 800;
+  word-break: keep-all;
+  display: inline;
+  border-bottom: 2px solid black;
+}
+.gayheader div {
+  width: 100%;
+    border-bottom: 2px solid rgb(168, 168, 168);
+}
