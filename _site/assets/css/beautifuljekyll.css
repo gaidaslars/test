@@ -9,6 +9,7 @@ html {
 body {
   font-family: 'Noto Sans','맑은 고딕','Malgun Gothic',Arial,Helvetica,sans-serif,Lucida,'Grande','Microsoft YaHei','Hiragino Sans GB', 'SimSun', 'Meiryo';
   font-size: 1.125rem;
+  font-weight: 600;
   color: #404040;
   position: relative;
   background-color: #FFFFFF;
@@ -17,7 +18,7 @@ body {
 }
 p {
   line-height: 1.5;
-  margin: 1.875rem 0;
+  margin: 0 0;
 }
 h1,h2,h3,h4,h5,h6 {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
@@ -34,11 +35,17 @@ h3 {
   font-size: 1.5rem;
 }
 h4 {
-  font-size: 1.125rem;
+  color: #2980b9;
+  font-size: 1.5rem;
 }
 h1, h2, h3, h4 {
   margin-top: 1.25rem;
 }
+h6 {
+  font-size: 1.3rem;
+  color: gray;
+}
+
 a {
   color: #008AFF;
 }
@@ -819,27 +826,32 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
 /* --- Tables --- */
 
 table {
+  table-layout: auto;
+  width: 100%;
   padding: 0;
 }
 table tr {
   border-top: 1px solid #cccccc;
   background-color: #ffffff;
+  height: 3.2rem;
   margin: 0;
   padding: 0;
 }
-table tr:nth-child(2n) {
-  background-color: #f8f8f8;
-}
-table tr th {
+table tr th, table thead tr th {
+  word-break: keep-all;
+  font-size: 0.9rem;
   font-weight: bold;
+  background-color: #f8f8f8;
   border: 1px solid #cccccc;
-  text-align: left;
+  text-align: center;
   margin: 0;
   padding: 0.375rem 0.8125rem;
 }
-table tr td {
+table tr td, table tbody tr td {
+  word-break: keep-all;
+  font-size: 0.8rem;
   border: 1px solid #cccccc;
-  text-align: left;
+  text-align: center;
   margin: 0;
   padding: 0.375rem 0.8125rem;
 }

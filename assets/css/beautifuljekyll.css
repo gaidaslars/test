@@ -13,6 +13,7 @@ html {
 body {
   font-family: 'Noto Sans','맑은 고딕','Malgun Gothic',Arial,Helvetica,sans-serif,Lucida,'Grande','Microsoft YaHei','Hiragino Sans GB', 'SimSun', 'Meiryo';
   font-size: 1.125rem;
+  font-weight: 600;
   color: {{ site.text-col | default: "#404040" }};
   position: relative;
   background-color: {{ site.page-col | default: "#FFFFFF" }};
@@ -24,7 +25,7 @@ body {
 }
 p {
   line-height: 1.5;
-  margin: 1.875rem 0;
+  margin: 0 0;
 }
 h1,h2,h3,h4,h5,h6 {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
@@ -41,11 +42,17 @@ h3 {
   font-size: 1.5rem;
 }
 h4 {
-  font-size: 1.125rem;
+  color: #2980b9;
+  font-size: 1.5rem;
 }
 h1, h2, h3, h4 {
   margin-top: 1.25rem;
 }
+h6 {
+  font-size: 1.3rem;
+  color: gray;
+}
+
 a {
   color: {{ site.link-col | default: "#008AFF" }};
 }
