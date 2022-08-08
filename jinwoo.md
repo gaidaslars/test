@@ -2,40 +2,19 @@
 ---
 
 <div class="gaybar__container">
-<div>
-	<a href="/?link=3hxoxfmq">
-        행사장
-    </a>
-	<a href="/jinwoo">
-        행사장 오시는길
-    </a>
-	<a href="/?link=54ici8he">
-        숙박안내
-    </a>
-	<a href="/?link=3hxoxfmq">
-        행사장
-    </a>
-	<a href="/jinwoo">
-        행사장 오시는길
-    </a>
-	<a href="/?link=54ici8he">
-        숙박안내
-    </a>
-	<a href="/?link=54ici8he">
-        숙박안내
-    </a>
-	<a href="/?link=3hxoxfmq">
-        행사장
-    </a>
-	<a href="/jinwoo">
-        행사장 오시는길
-    </a>
-	<a href="/?link=54ici8he">
-        숙박안내
-    </a></div>
+  <ul>
+    <li><a href="/?link=3hxoxfmq"> 행사장 </a></li>
+    <li><a href="/jinwoo"> 행사장 오시는길 </a></li>
+    <li><a href="/?link=54ici8he"> 숙박안내 </a></li>
+    <li><a href="/?link=3hxoxfmq"> 행사장 </a></li>
+    <li><a href="/jinwoo"> 행사장 오시는길 </a></li>
+    <li><a href="/?link=54ici8he"> 숙박안내 </a></li>
+    <li><a href="/?link=54ici8he"> 숙박안내 </a></li>
+    <li><a href="/?link=3hxoxfmq"> 행사장 </a></li>
+    <li><a href="/jinwoo"> 행사장 오시는길 </a></li>
+    <li><a href="/?link=54ici8he"> 숙박안내 </a></li>
+  </ul>
 </div>
-
-
 
 <p class="HStyle0">1. <span style="position: relative; font-family: HY견고딕; border-width: 0px;">2022년 GEOAI데이터학회 춘계워크샵</span><span class="hnc_page_break" style="word-spacing: -0.5em; border-width: 0px;">&nbsp;</span></p>
 
@@ -53,105 +32,11 @@
 
 <p class="HStyle0"><span style="position: relative; font-family: HY견고딕; border-width: 0px;">*춘계워크샵은 특별세션과 독립적인 세미나로 운영됩니다.</span><span class="hnc_page_break" style="word-spacing: -0.5em; border-width: 0px;">&nbsp;</span></p>
 
-<p class="HStyle0"></p>
-<table cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: 0px none; table-layout: fixed;">
-<tbody><tr>
-	<td valign="middle" bgcolor="#c1d6ed" style="overflow: hidden; width: 112px; height: 17px; border: 0.8pt solid rgb(0, 0, 0); padding: 1.4pt 5.1pt;">
-	<p class="HStyle0"><span class="hnc_page_break" style="word-spacing: -0.5em; border-width: 0px;">&nbsp;</span></p>
-	</td>
-	<td valign="middle" style="overflow: hidden; width: 112px; height: 17px; border: 0.8pt solid rgb(0, 0, 0); padding: 1.4pt 5.1pt;">
-	<p class="HStyle0"><span class="hnc_page_break" style="word-spacing: -0.5em; border-width: 0px;">&nbsp;</span></p>
-	</td>
-	<td valign="middle" style="overflow: hidden; width: 112px; height: 17px; border: 0.8pt solid rgb(0, 0, 0); padding: 1.4pt 5.1pt;">
-	<p class="HStyle0"><span class="hnc_page_break" style="word-spacing: -0.5em; border-width: 0px;">&nbsp;</span></p>
-	</td>
-	<td valign="middle" style="overflow: hidden; width: 112px; height: 17px; border: 0.8pt solid rgb(0, 0, 0); padding: 1.4pt 5.1pt;">
-	<p class="HStyle0"><span class="hnc_page_break" style="word-spacing: -0.5em; border-width: 0px;">&nbsp;</span></p>
-	</td>
-	<td valign="middle" style="overflow: hidden; width: 112px; height: 17px; border: 0.8pt solid rgb(0, 0, 0); padding: 1.4pt 5.1pt;">
-	<p class="HStyle0"><span class="hnc_page_break" style="word-spacing: -0.5em; border-width: 0px;">&nbsp;</span></p>
-	</td>
-</tr>
-<tr>
-	<td valign="middle" bgcolor="#c1d6ed" style="overflow: hidden; width: 112px; height: 17px; border: 0.8pt solid rgb(0, 0, 0); padding: 1.4pt 5.1pt;">
-	<p class="HStyle0"><span class="hnc_page_break" style="word-spacing: -0.5em; border-width: 0px;">&nbsp;</span></p>
-	</td>
-	<td valign="middle" style="overflow: hidden; width: 112px; height: 17px; border: 0.8pt solid rgb(0, 0, 0); padding: 1.4pt 5.1pt;">
-	<p class="HStyle0"><span class="hnc_page_break" style="word-spacing: -0.5em; border-width: 0px;">&nbsp;</span></p>
-	</td>
-	<td valign="middle" style="overflow: hidden; width: 112px; height: 17px; border: 0.8pt solid rgb(0, 0, 0); padding: 1.4pt 5.1pt;">
-	<p class="HStyle0"><span class="hnc_page_break" style="word-spacing: -0.5em; border-width: 0px;">&nbsp;</span></p>
-	</td>
-	<td valign="middle" style="overflow: hidden; width: 112px; height: 17px; border: 0.8pt solid rgb(0, 0, 0); padding: 1.4pt 5.1pt;">
-	<p class="HStyle0"><span class="hnc_page_break" style="word-spacing: -0.5em; border-width: 0px;">&nbsp;</span></p>
-	</td>
-	<td valign="middle" style="overflow: hidden; width: 112px; height: 17px; border: 0.8pt solid rgb(0, 0, 0); padding: 1.4pt 5.1pt;">
-	<p class="HStyle0"><span class="hnc_page_break" style="word-spacing: -0.5em; border-width: 0px;">&nbsp;</span></p>
-	</td>
-</tr>
-<tr>
-	<td valign="middle" bgcolor="#c1d6ed" style="overflow: hidden; width: 112px; height: 17px; border: 0.8pt solid rgb(0, 0, 0); padding: 1.4pt 5.1pt;">
-	<p class="HStyle0"><span class="hnc_page_break" style="word-spacing: -0.5em; border-width: 0px;">&nbsp;</span></p>
-	</td>
-	<td valign="middle" style="overflow: hidden; width: 112px; height: 17px; border: 0.8pt solid rgb(0, 0, 0); padding: 1.4pt 5.1pt;">
-	<p class="HStyle0"><span class="hnc_page_break" style="word-spacing: -0.5em; border-width: 0px;">&nbsp;</span></p>
-	</td>
-	<td valign="middle" style="overflow: hidden; width: 112px; height: 17px; border: 0.8pt solid rgb(0, 0, 0); padding: 1.4pt 5.1pt;">
-	<p class="HStyle0"><span class="hnc_page_break" style="word-spacing: -0.5em; border-width: 0px;">&nbsp;</span></p>
-	</td>
-	<td valign="middle" style="overflow: hidden; width: 112px; height: 17px; border: 0.8pt solid rgb(0, 0, 0); padding: 1.4pt 5.1pt;">
-	<p class="HStyle0"><span class="hnc_page_break" style="word-spacing: -0.5em; border-width: 0px;">&nbsp;</span></p>
-	</td>
-	<td valign="middle" style="overflow: hidden; width: 112px; height: 17px; border: 0.8pt solid rgb(0, 0, 0); padding: 1.4pt 5.1pt;">
-	<p class="HStyle0"><span class="hnc_page_break" style="word-spacing: -0.5em; border-width: 0px;">&nbsp;</span></p>
-	</td>
-</tr>
-<tr>
-	<td valign="middle" bgcolor="#c1d6ed" style="overflow: hidden; width: 112px; height: 17px; border: 0.8pt solid rgb(0, 0, 0); padding: 1.4pt 5.1pt;">
-	<p class="HStyle0"><span class="hnc_page_break" style="word-spacing: -0.5em; border-width: 0px;">&nbsp;</span></p>
-	</td>
-	<td valign="middle" style="overflow: hidden; width: 112px; height: 17px; border: 0.8pt solid rgb(0, 0, 0); padding: 1.4pt 5.1pt;">
-	<p class="HStyle0"><span class="hnc_page_break" style="word-spacing: -0.5em; border-width: 0px;">&nbsp;</span></p>
-	</td>
-	<td valign="middle" style="overflow: hidden; width: 112px; height: 17px; border: 0.8pt solid rgb(0, 0, 0); padding: 1.4pt 5.1pt;">
-	<p class="HStyle0"><span class="hnc_page_break" style="word-spacing: -0.5em; border-width: 0px;">&nbsp;</span></p>
-	</td>
-	<td valign="middle" style="overflow: hidden; width: 112px; height: 17px; border: 0.8pt solid rgb(0, 0, 0); padding: 1.4pt 5.1pt;">
-	<p class="HStyle0"><span class="hnc_page_break" style="word-spacing: -0.5em; border-width: 0px;">&nbsp;</span></p>
-	</td>
-	<td valign="middle" style="overflow: hidden; width: 112px; height: 17px; border: 0.8pt solid rgb(0, 0, 0); padding: 1.4pt 5.1pt;">
-	<p class="HStyle0"><span class="hnc_page_break" style="word-spacing: -0.5em; border-width: 0px;">&nbsp;</span></p>
-	</td>
-</tr>
-<tr>
-	<td valign="middle" bgcolor="#c1d6ed" style="overflow: hidden; width: 112px; height: 17px; border: 0.8pt solid rgb(0, 0, 0); padding: 1.4pt 5.1pt;">
-	<p class="HStyle0"><span class="hnc_page_break" style="word-spacing: -0.5em; border-width: 0px;">&nbsp;</span></p>
-	</td>
-	<td valign="middle" style="overflow: hidden; width: 112px; height: 17px; border: 0.8pt solid rgb(0, 0, 0); padding: 1.4pt 5.1pt;">
-	<p class="HStyle0"><span class="hnc_page_break" style="word-spacing: -0.5em; border-width: 0px;">&nbsp;</span></p>
-	</td>
-	<td valign="middle" style="overflow: hidden; width: 112px; height: 17px; border: 0.8pt solid rgb(0, 0, 0); padding: 1.4pt 5.1pt;">
-	<p class="HStyle0"><span class="hnc_page_break" style="word-spacing: -0.5em; border-width: 0px;">&nbsp;</span></p>
-	</td>
-	<td valign="middle" style="overflow: hidden; width: 112px; height: 17px; border: 0.8pt solid rgb(0, 0, 0); padding: 1.4pt 5.1pt;">
-	<p class="HStyle0"><span class="hnc_page_break" style="word-spacing: -0.5em; border-width: 0px;">&nbsp;</span></p>
-	</td>
-	<td valign="middle" style="overflow: hidden; width: 112px; height: 17px; border: 0.8pt solid rgb(0, 0, 0); padding: 1.4pt 5.1pt;">
-	<p class="HStyle0"><span class="hnc_page_break" style="word-spacing: -0.5em; border-width: 0px;">&nbsp;</span></p>
-	</td>
-</tr>
-</tbody></table>
 <p class="HStyle0"><span class="hnc_page_break" style="word-spacing: -0.5em; border-width: 0px;">&nbsp;</span></p>
 
 <p class="HStyle0"><span class="hnc_page_break" style="word-spacing: -0.5em; border-width: 0px;">&nbsp;</span></p>
-
-
-
-
 
 <hr/>
-
-
 
 ### My story
 
