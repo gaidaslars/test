@@ -174,7 +174,7 @@ img {
 
 .navbar-custom .navbar-nav .nav-item {
   text-transform: uppercase;
-  font-size: 1.2rem;
+  font-size: 1.0rem;
   font-family: 'Noto Sans','맑은 고딕','Malgun Gothic',Arial,Helvetica,sans-serif,Lucida,'Grande','Microsoft YaHei','Hiragino Sans GB', 'SimSun', 'Meiryo';;
   /* 폰트사이즈 아이템 */
   letter-spacing: 0.0825rem;
@@ -184,8 +184,8 @@ img {
   padding-top: 0;
   padding-bottom: 0;
   line-height: 3rem;
-  padding-top: 0.9375rem;
-  padding-bottom: 0.9375rem;
+  padding-top: 0.5375rem;
+  padding-bottom: 0.5375rem;
 }
 
 .navbar-custom .navbar-brand,
@@ -299,7 +299,7 @@ img {
   }
 
   .navbar-custom .navbar-nav .nav-link {
-    padding: 0.675rem 0 0.675rem 1rem;
+    padding: 0rem 0 0rem 1rem;
   }
 
   .navbar-custom .nav-item.dropdown.show {
@@ -384,7 +384,7 @@ footer {
   padding: 1.875rem 0;
   border-top: 1px #EAEAEA solid;
   margin-top: 3.125rem;
-  font-size: 0.875rem;
+  font-size: 1rem;
   background-color: black;
   
 }
@@ -419,22 +419,22 @@ footer .theme-by {
 }
 footer .footer-custom-content {
   text-align: center;
-  margin-bottom: 0.9375rem;
+  margin-bottom: 0rem;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
 @media (min-width: 768px) {
   footer {
-    padding: 3.125rem 0;
+    padding: 2.5rem 0;
   }
   footer .footer-links {
     font-size: 1.125rem;
   }
   footer .copyright {
-    font-size: 1rem;
+    font-size: 2rem;
   }
   footer .footer-custom-content {
-    font-size: 1rem;
+    font-size: 2rem;
   }
 }
 

@@ -39,7 +39,7 @@ navbar-links:
   위원회: "위원회"
   행사장:
     - 행사장: "jinwoo"
-    - 행사장 오시는길: "jinwoo"
+    - 행사장 오시는길: "행사장오시는길"
     - 숙박안내: "jinwoo"
     
   
@@ -98,7 +98,7 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is a virtual proof that I'm awesome
+# rss-description: This website is a virtual proof that I'm awesome
 
 ###########################
 # --- General options --- #
@@ -106,9 +106,9 @@ rss-description: This website is a virtual proof that I'm awesome
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: true
-  facebook: true
-  linkedin: true
+  twitter: False
+  facebook: False
+  linkedin: False
   vk: false
 
 # How to display the link to your website in the footer
