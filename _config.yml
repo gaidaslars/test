@@ -21,21 +21,22 @@ author: 지오에이아이데이터학회
 
 navbar-links:
   홈: "../"
-  개요: "/개요"
+  개요: "개요"
   프로그램:
     - Time Table: "timetable"
-    - 발표장: "jinwoo"
-    - Ballroom 1: "jinwoo"
-    - Ballroom 2: "jinwoo"
-    - Meeting Room: "jinwoo"
+    - 발표장: "timetable"
+    - Ballroom 1: "timetable"
+    - Ballroom 2: "timetable"
+    - Meeting Room: "timetable"
   지면광고:
-    - 서울시립대학교 LARS랩: "jinwoo"
-    - 지오빅데이터 오픈플랫폼: "jinwoo"
-  사전등록: "/"
+    - 서울시립대학교 LARS랩: "timetable"
+    - 지오빅데이터 오픈플랫폼: "timetable"
+  사전등록: "사전등록"
+  초록접수: "초록접수"
   신청:
-    - 특별세션: "jinwoo"
-    - 지면광고: "jinwoo"
-  위원회: "/"
+    - 특별세션: "특별세션"
+    - 부스 및 지면광고: "부스및지면광고"
+  위원회: "위원회"
   행사장:
     - 행사장: "jinwoo"
     - 행사장 오시는길: "jinwoo"
@@ -143,17 +144,17 @@ navbar-var-length: False
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#0f3e69"
-navbar-text-col: "#ffffff"
-navbar-border-col: "#ffffff"
-page-col: "#FFFFFF"
+navbar-col: white;
+navbar-text-col: black
+navbar-border-col: gray
+page-col: white
 text-col: "#404040"
 link-col: "#008AFF"
 hover-col: "#0085A1"
-footer-col: "#0f3e69"
-footer-text-col: "#ffffff"
-footer-link-col: "#404040"
-footer-hover-col: "#0085A1"
+footer-col: black
+footer-text-col: white
+footer-link-col: white
+footer-hover-col: white
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour

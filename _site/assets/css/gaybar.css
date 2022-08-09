@@ -3,7 +3,7 @@
   margin: 0 auto;
   padding-bottom: 0.5rem;
   text-align: center;
-  border-bottom: 2px inset black ;
+  /* border-bottom: 0.5px inset black ; */
 }
 
 .gaybar__container ul {
@@ -28,7 +28,7 @@
 }
 
 .gaybar__container ul li a {
-  font-size: 2rem;
+  font-size: 1rem;
   color: black;
 }
 
@@ -53,6 +53,7 @@
 }
 
 .gayheader span {
+  width: 20%;
   font-size: 2rem;
   font-weight: 800;
   color: #2980b9;
