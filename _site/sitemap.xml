@@ -30,6 +30,9 @@
 <loc>http://localhost:4000/%EC%82%AC%EC%A0%84%EB%93%B1%EB%A1%9D/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/%EC%88%99%EB%B0%95%EC%95%88%EB%82%B4/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/%EC%9C%84%EC%9B%90%ED%9A%8C/</loc>
 </url>
 <url>
@@ -37,6 +40,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/%ED%8A%B9%EB%B3%84%EC%84%B8%EC%85%98/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/%ED%96%89%EC%82%AC%EC%9E%A5/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/%ED%96%89%EC%82%AC%EC%9E%A5%EC%98%A4%EC%8B%9C%EB%8A%94%EA%B8%B8/</loc>
