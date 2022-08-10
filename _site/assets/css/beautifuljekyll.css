@@ -381,7 +381,7 @@ img {
 /* --- Footer --- */
 
 footer {
-  padding: 1.875rem 0;
+  padding: 1rem 0 1rem 0;
   border-top: 1px #EAEAEA solid;
   margin-top: 3.125rem;
   font-size: 1rem;
@@ -408,7 +408,7 @@ footer .list-inline {
   margin-bottom: 1.875rem;
 }
 footer .copyright {
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Noto Sans','맑은 고딕','Malgun Gothic',Arial,Helvetica,sans-serif,Lucida,'Grande','Microsoft YaHei','Hiragino Sans GB', 'SimSun', 'Meiryo';
   text-align: center;
   margin-bottom: 0;
   margin-top: 0;
@@ -420,12 +420,12 @@ footer .theme-by {
 footer .footer-custom-content {
   text-align: center;
   margin-bottom: 0rem;
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Noto Sans','맑은 고딕','Malgun Gothic',Arial,Helvetica,sans-serif,Lucida,'Grande','Microsoft YaHei','Hiragino Sans GB', 'SimSun', 'Meiryo';
 }
 
 @media (min-width: 768px) {
   footer {
-    padding: 2.5rem 0;
+    padding: 1rem 1rem;
   }
   footer .footer-links {
     font-size: 1.125rem;
