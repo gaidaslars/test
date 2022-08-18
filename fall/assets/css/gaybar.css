@@ -1,0 +1,97 @@
+.gaybar__container {
+  display: block;
+  margin: 0 auto;
+  padding-bottom: 0.5rem;
+  text-align: center;
+  /* border-bottom: 0.5px inset black ; */
+}
+
+.gaybar__container ul {
+  padding:0;
+  margin: 0;
+}
+
+.gaybar__container ul li {
+  display: inline-block;
+  line-height: 48px
+}
+
+.gaybar__container ul li+li:before {
+  display: inline-block;
+  width: 1px;
+  height: 14px;
+  margin: 0 10px;
+  background-color: #ebebeb;
+  vertical-align: top;
+  content: '';
+  vertical-align: middle
+}
+
+.gaybar__container ul li a {
+  font-size: 1rem;
+  color: black;
+}
+
+
+/* .gaybar__container > div {
+    width: max-content;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.gaybar__container > div > a {
+    width: max-content;
+    font-family: sans-serif;
+    font-size: 1rem;
+    color: black;
+    margin: 0 2rem;
+} */
+
+.gayheader {
+  display: flex;
+  width: 100%;
+}
+
+.gayheader span {
+  width: 100%;
+  font-size: 2rem;
+  font-weight: 800;
+  color: #2980b9;
+  word-break: keep-all;
+  display: inline;
+  border-bottom: 2px solid black;
+}
+.gayheader div {
+  width: 100%;
+    border-bottom: 2px solid rgb(168, 168, 168);
+}
+
+.logo-text {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 1rem;
+}
+
+.logo-text span {
+  margin-left: 0.3rem;
+  font-size: 1rem;
+  text-align: center;
+  vertical-align: center;
+}
+.logo-text img {
+  width: 2rem;
+  height: 2rem;
+}
+
+@media (max-width:736px) {
+  .logo-text span {
+    font-size: 0.8rem;
+  }
+
+  .logo-text img {
+    width: 1rem;
+    height: 1rem;
+  }
+}
