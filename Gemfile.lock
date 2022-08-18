@@ -71,7 +71,6 @@ GEM
 
 PLATFORMS
   universal-darwin-22
-  x86_64-darwin-20
 
 DEPENDENCIES
   beautiful-jekyll-theme!

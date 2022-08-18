@@ -20,27 +20,27 @@ author: 지오에이아이데이터학회
 ###############################################
 
 navbar-links:
-  홈: "../"
-  개요: "개요"
+  홈: "./fall"
+  개요: "fall/개요"
   프로그램:
-    - Time Table: "timetable"
-    - 발표장: "timetable"
-    - Ballroom 1: "timetable"
-    - Ballroom 2: "timetable"
-    - Meeting Room: "timetable"
+    - Time Table: "fall/timetable"
+    - 발표장: "fall/timetable"
+    - Ballroom 1: "fall/timetable"
+    - Ballroom 2: "fall/timetable"
+    - Meeting Room: "fall/timetable"
   지면광고:
-    - 서울시립대학교 LARS랩: "timetable"
-    - 지오빅데이터 오픈플랫폼: "timetable"
-  사전등록: "사전등록"
-  초록접수: "초록접수"
+    - 서울시립대학교 LARS랩: "fall/timetable"
+    - 지오빅데이터 오픈플랫폼: "fall/timetable"
+  사전등록: "fall/사전등록"
+  초록접수: "fall/초록접수"
   신청:
-    - 특별세션: "특별세션"
-    - 부스 및 지면광고: "부스및지면광고"
-  위원회: "위원회"
+    - 특별세션: "fall/특별세션"
+    - 부스 및 지면광고: "fall/부스및지면광고"
+  위원회: "fall/위원회"
   행사장:
-    - 행사장: "행사장"
-    - 행사장 오시는길: "행사장오시는길"
-    - 숙박안내: "숙박안내"
+    - 행사장: "fall/행사장"
+    - 행사장 오시는길: "fall/행사장오시는길"
+    - 숙박안내: "fall/숙박안내"
     
   
 
