@@ -146,7 +146,7 @@ navbar-var-length: False
 
 navbar-col: white;
 navbar-text-col: black
-navbar-border-col: gray
+navbar-border-col: "#cfcfcf"
 page-col: white
 text-col: "#404040"
 link-col: "#008AFF"
