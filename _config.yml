@@ -24,10 +24,10 @@ navbar-links:
   개요: "fall/개요"
   프로그램:
     - Time Table: "fall/timetable"
-    - 발표장: "fall/timetable"
-    - Ballroom 1: "fall/timetable"
-    - Ballroom 2: "fall/timetable"
-    - Meeting Room: "fall/timetable"
+    # - 발표장: "fall/timetable"
+    # - Ballroom 1: "fall/timetable"
+    # - Ballroom 2: "fall/timetable"
+    # - Meeting Room: "fall/timetable"
   지면광고:
     - 서울시립대학교 LARS랩: "fall/timetable"
     - 지오빅데이터 오픈플랫폼: "fall/timetable"
