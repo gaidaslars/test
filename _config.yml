@@ -29,8 +29,8 @@ navbar-links:
     # - Ballroom 2: "fall/timetable"
     # - Meeting Room: "fall/timetable"
   지면광고:
-    - 서울시립대학교 LARS랩: "fall/timetable"
-    - 지오빅데이터 오픈플랫폼: "fall/timetable"
+    - 서울시립대학교 LARS랩: "fall/서울시립대"
+    - 지오빅데이터 오픈플랫폼: "fall/지오빅데이터플랫폼"
   사전등록: "fall/사전등록"
   초록접수: "fall/초록접수"
   신청:
