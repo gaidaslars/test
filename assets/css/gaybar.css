@@ -144,3 +144,43 @@
 ::-webkit-scrollbar-thumb:hover {
   background: #555;
 }
+
+.associated-company {
+  position: relative;
+}
+
+.associated-company img {
+  width: 30%;
+  height: auto;
+  padding: 0.8rem;
+}
+
+.associated-company div {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.text {
+  color: #0070f3;
+  opacity: 0;
+  font-size: 20px;
+  text-align: center;
+}
+
+.associated-company:hover img {
+  backdrop-filter: blur(10px);
+  filter: blur(4px);
+  transition: 0.5s ease;
+}
+
+.associated-company:hover .text {
+  opacity: 1;
+}
