@@ -19,6 +19,8 @@
   .gaybar__container ul {
     width: 100%;
     flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
   }
   .gaybar__container ul li {
     display: block;
@@ -169,7 +171,7 @@
 }
 
 .text {
-  color: #0070f3;
+  color: black;
   opacity: 0;
   font-size: 20px;
   text-align: center;
@@ -177,7 +179,7 @@
 
 .associated-company:hover img {
   backdrop-filter: blur(10px);
-  filter: blur(4px);
+  filter: blur(10px);
   transition: 0.5s ease;
 }
 

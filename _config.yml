@@ -30,7 +30,7 @@ navbar-links:
     # - Meeting Room: "fall/timetable"
   지면광고:
     - 서울시립대학교 LARS랩: "fall/서울시립대"
-    - 지오빅데이터 오픈플랫폼: "fall/지오빅데이터플랫폼"
+    - 지오빅데이터 오픈플랫폼: "fall/지오빅데이터"
   사전등록: "fall/사전등록"
   초록접수: "fall/초록접수"
   신청:
@@ -45,11 +45,29 @@ navbar-links:
 ###### 참여기업
 
 associated-companies:
-  국립생태원: "https://google.com"
-  네이버시스템: "https://google.com"
-  디에스지: "https://google.com"
-  마인드포지: "https://google.com"
+  KIGAM: "https://www.kigam.re.kr/"
+  KIOST: "https://www.kiost.ac.kr/kor.do"
+  NIE: "https://www.nie.re.kr/"
+  KOPRI: "https://eng.kopri.re.kr/"
+  KARI: "https://www.kari.re.kr/kor.do"
+  K-Water: "https://www.kwater.or.kr/main.do?s_mid=1"
+  LARS: "https://cafe.naver.com/uosrs/"
+  부경대학교: "https://sites.google.com/view/pknu-rsl/home"
+  KEOL: "https://keol.kr/"
+  KEI: "https://www.kei.re.kr/"
 
+ad-companies:
+  LARS: "https://cafe.naver.com/uosrs/"
+  선영종합엔지니어링: "http://sunyoungeng.co.kr/"
+  마인드포지: "https://mindforge.kr/"
+  KIGAM: "https://www.kigam.re.kr/"
+  KIOST: "https://www.kiost.ac.kr/kor.do"
+  MATEC: "http://www.matec.kr/"
+  지오스토리: "https://www.geostory.co.kr/main/main.html?"
+  이쓰리: "http://www.e-three.co.kr/"
+  네이버시스템: "http://www.neighbor21.co.kr/main"
+  지오셋아이: "http://geosati.co.kr/home/index.php"
+  지오포커스: "http://www.geofocus.kr/"
 ################
 # --- Logo --- #
 ################
