@@ -35,6 +35,14 @@
 .gaybar__container ul li a {
   white-space: nowrap;
 }
+.gaybar__container ul li a:hover {
+  text-decoration: underline;
+  color: #0070f3;
+  cursor: pointer;
+  -webkit-transition: color 150ms linear;
+  -ms-transition: color 150ms linear;
+  transition: color 150ms linear;
+}
 
 .gaybar__container ul li+li:before {
   display: inline-block;
