@@ -29,7 +29,7 @@ navbar-links:
     # - Ballroom 2: "fall/timetable"
     # - Meeting Room: "fall/timetable"
   지면광고:
-    - 서울시립대학교 LARS랩: "fall/서울시립대"
+    - 서울시립대학교 GARS랩: "fall/서울시립대"
     - 지오빅데이터 오픈플랫폼: "fall/지오빅데이터"
   사전등록: "fall/사전등록"
   초록접수: "fall/초록접수"
@@ -51,13 +51,13 @@ associated-companies:
   KOPRI: "https://eng.kopri.re.kr/"
   KARI: "https://www.kari.re.kr/kor.do"
   K-Water: "https://www.kwater.or.kr/main.do?s_mid=1"
-  LARS: "https://cafe.naver.com/uosrs/"
+  GARSLab: "https://cafe.naver.com/uosrs/"
   부경대학교: "https://sites.google.com/view/pknu-rsl/home"
   KEOL: "https://keol.kr/"
   KEI: "https://www.kei.re.kr/"
 
 ad-companies:
-  LARS: "https://cafe.naver.com/uosrs/"
+  GARSLab: "https://cafe.naver.com/uosrs/"
   선영종합엔지니어링: "http://sunyoungeng.co.kr/"
   마인드포지: "https://mindforge.kr/"
   KIGAM: "https://www.kigam.re.kr/"
