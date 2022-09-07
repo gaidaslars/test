@@ -48,7 +48,6 @@ navbar-links:
 associated-companies:
   KIGAM: "https://www.kigam.re.kr/"
   KIOST: "https://www.kiost.ac.kr/kor.do"
-  NIE: "https://www.nie.re.kr/"
   KOPRI: "https://eng.kopri.re.kr/"
   KARI: "https://www.kari.re.kr/kor.do"
   K-Water: "https://www.kwater.or.kr/main.do?s_mid=1"
@@ -56,6 +55,8 @@ associated-companies:
   부경대학교: "https://sites.google.com/view/pknu-rsl/home"
   KEOL: "https://keol.kr/"
   KEI: "https://www.kei.re.kr/"
+  IRIS: https://iris.unist.ac.kr/
+  국립기상과학원: http://www.nims.go.kr/MA/main.jsp
 
 ad-companies:
   GARSLab: "https://cafe.naver.com/uosrs/"
@@ -65,10 +66,7 @@ ad-companies:
   KIOST: "https://www.kiost.ac.kr/kor.do"
   MATEC: "http://www.matec.kr/"
   지오스토리: "https://www.geostory.co.kr/main/main.html?"
-  이쓰리: "http://www.e-three.co.kr/"
-  네이버시스템: "http://www.neighbor21.co.kr/main"
-  지오셋아이: "http://geosati.co.kr/home/index.php"
-  지오포커스: "http://www.geofocus.kr/"
+  3DGIS연구실: "http://3dgislab.uos.ac.kr/"
 ################
 # --- Logo --- #
 ################
