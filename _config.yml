@@ -24,6 +24,7 @@ navbar-links:
   개요: "fall/개요"
   프로그램:
     - Time Table: "fall/timetable"
+    - 튜토리얼세션: "fall/튜토리얼세션"
     # - 발표장: "fall/timetable"
     # - Ballroom 1: "fall/timetable"
     # - Ballroom 2: "fall/timetable"
